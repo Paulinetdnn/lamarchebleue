@@ -1,0 +1,45 @@
+h1{
+	color: blue;
+	font-size: 32px;
+	background:#CBE1F6;
+	font-family: 'Koulen', cursive;
+}
+
+
+h2{
+	color: blue;
+	font-size: 22px;
+	background:#CBE1F6;
+	font-family: 'Koulen', cursive;
+}
+
+h3{color: blue;
+	font-size: 22px;
+	background:#CBE1F6;
+	font-family: 'Koulen', cursive;
+
+}
+p {
+	color: white;
+	font-size:12px;
+	background: #CBE1F6;
+	font-family: arial;
+}
+
+s{color: white;
+	font-size:12px;
+	background: #CBE1F6;
+	font-family: arial;
+}
+
+body {
+	background:#CBE1F6;
+	font-size:18px
+	text-align: center;
+}
+
+img{
+	width:1420px;
+	height: 500px;
+	object-fit: cover;
+}
